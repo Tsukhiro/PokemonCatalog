@@ -1,7 +1,7 @@
 # 💻 PokéShop
 
 
-> Previw do projeto.
+> Previw 
 
 
 ◼️ Link do projeto para teste: https://catalog-pokemon.netlify.app/
