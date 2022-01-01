@@ -1,14 +1,12 @@
-### Sobre o projeto ✔️
+# 💻 PokéShop
 
-◼️ Se trata de um modelo para site de catalogo.
 
-### Tecnologias utilizada ✔️
+> Previw do projeto.
 
-[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]() [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-
-### Previw ✔️
 
 ◼️ Link do projeto para teste: https://catalog-pokemon.netlify.app/
+
+<br>
 
 ![Capturar1](https://user-images.githubusercontent.com/89936463/142866890-bbae4894-997d-41c0-aa92-b10c46cda116.JPG)
 ![Capturar2](https://user-images.githubusercontent.com/89936463/142866906-1be0ac8b-6154-41f9-9ff3-68cf4aecf150.JPG)
@@ -17,7 +15,40 @@
 ![Capturar5](https://user-images.githubusercontent.com/89936463/142866967-48f83220-1bed-491c-876c-cbc764746bfa.JPG)
 ![Capturar6](https://user-images.githubusercontent.com/89936463/142866997-6f8402cf-fdf4-4d6a-ba46-d12943824359.JPG)
 
+### 🛠️ Ajustes e melhorias
 
-### Agradecimento ✔️
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-◼️ Projeto elaborado com o auxilio do DevSuperior através de seu video no Youtube.
+- [x] Criação do HTML.
+- [x] Criação do CSS.
+- [ ] Versão Mobile.
+- [ ] Atualização do Layout.
+
+
+
+## 🤝 Colaboradores
+
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Tsukhiro">
+        <sub>
+          <b>Wagner Vitor</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/c/DevSuperior">
+        <sub>
+          <b>DevSuperior (Youtube)</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
